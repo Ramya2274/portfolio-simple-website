@@ -1,5 +1,8 @@
-Portfolio Website 
+Portfolio Website
+
+
 This is my simple portfolio website, built using HTML and basic CSS. It includes two main pages:
+
         1)Home Page: Introduces me and highlights my work.
         2)Contact Page: Provides a way to get in touch with me.
         
